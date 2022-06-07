@@ -6,3 +6,4 @@ payload:
   - IP-CIDR,23.225.15.0/24
   - IP-CIDR,68.183.115.0/24
   - DOMAIN-SUFFIX,lzx2.com
+  - IP-CIDR,164.92.76.0/24
