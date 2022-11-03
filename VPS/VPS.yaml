@@ -14,3 +14,4 @@ payload:
   - IP-CIDR,93.95.227.0/24 
   - IP-CIDR,74.207.244.0/24 
   - DOMAIN-SUFFIX,okx.com
+  - IP-CIDR,45.79.88.0/24 
